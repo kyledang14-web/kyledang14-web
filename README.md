@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kyle Dang 👋
 
-<!--
-**kyledang14-web/kyledang14-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MIS Graduate @ SJSU focused on data analytics, business intelligence, and AI-powered systems.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- SQL
+- Tableau
+- Excel
+- Pandas
+- scikit-learn
+- LangGraph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+
+### IBM Telco Customer Churn Analysis
+- Analyzed 7,000+ customer records to identify churn drivers
+- Built ETL pipeline and logistic regression model
+- Developed retention-focused business recommendations
+
+### Retail Revenue & Customer Analytics Dashboard
+- Analyzed 500K+ retail transactions using Excel & Tableau
+- Identified seasonal sales trends and customer concentration risks
+- Built KPI-focused business dashboard
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/kyledang04
+- Email: KyleDang14@gmail.com
