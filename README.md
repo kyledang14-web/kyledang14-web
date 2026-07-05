@@ -2,7 +2,7 @@
 
 MIS Graduate @ SJSU focused on data analytics, business intelligence, and AI-powered systems.
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - SQL
 - Tableau
@@ -11,7 +11,7 @@ MIS Graduate @ SJSU focused on data analytics, business intelligence, and AI-pow
 - scikit-learn
 - LangGraph
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### IBM Telco Customer Churn Analysis
 - Analyzed 7,000+ customer records to identify churn drivers
